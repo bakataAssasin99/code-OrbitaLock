@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DLLSample">
+</Property><Property Name="解决方案文件" Value="E:\pcb\VBSample\DLLSample\DLLSample.sln">
+</Property><Property Name="用户选项文件" Value="E:\pcb\VBSample\DLLSample\DLLSample.suo">
+</Property><Property Name="Date" Value="2012年11月29日">
+</Property><Property Name="Time" Value="16:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DLLSample.sln" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DLLSample.suo" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample.suo">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\DLLSample.vbproj" Description="项目文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\DLLSample.vbproj">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\Form1.vb" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\Form1.vb">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\Form1.Designer.vb" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\My Project\AssemblyInfo.vb" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\My Project\Application.Designer.vb" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\My Project\Resources.Designer.vb" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\My Project\Settings.Designer.vb" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\My Project\Application.myapp" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\My Project\Settings.settings" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\Form1.resx" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\My Project\Resources.resx" Description="文件已成功备份为 E:\pcb\VBSample\DLLSample\Backup\DLLSample\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\DLLSample.vbproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DLLSample" Source="DLLSample\DLLSample.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DLLSample.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DLLSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DLLSample" Source="DLLSample\DLLSample.vbproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,12 @@
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HData.mdb;Jet OLEDB:Database Password=lzfhunelzf368;
+
+Connect DB SUCCESS
+
+reader[0].ToString() 1E819A4B
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HData.mdb;Jet OLEDB:Database Password=lzfhunelzf368;
+
+Connect DB SUCCESS
+
+reader[0].ToString() 1E819A4B
+

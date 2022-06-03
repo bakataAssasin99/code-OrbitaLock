@@ -1,0 +1,4 @@
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+

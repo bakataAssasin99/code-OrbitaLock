@@ -1,0 +1,36 @@
+D:\Program Files\Desktop\RFTest20-C#_EN\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+D:\Program Files\Desktop\RFTest20-C#_EN\obj\Debug\WindowsApplication1.Form1.resources
+D:\Program Files\Desktop\RFTest20-C#_EN\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Program Files\Desktop\RFTest20-C#_EN\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+D:\Program Files\Desktop\RFTest20-C#_EN\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+D:\Program Files\Desktop\RFTest20-C#_EN\obj\Debug\Demo.exe
+D:\Program Files\Desktop\RFTest20-C#_EN\obj\Debug\Demo.pdb
+D:\Program Files\Desktop\RFTest20-C#_EN\Demo.exe
+D:\Program Files\Desktop\RFTest20-C#_EN\Demo.pdb
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#\obj\Debug\WindowsApplication1.Form1.resources
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#\obj\Debug\Demo.exe
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#\obj\Debug\Demo.pdb
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#\Demo.exe
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#\Demo.pdb
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#-En\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#-En\obj\Debug\WindowsApplication1.Form1.resources
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#-En\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#-En\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#-En\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#-En\obj\Debug\Demo.exe
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#-En\obj\Debug\Demo.pdb
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#-En\Demo.exe
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-C#-En\Demo.pdb
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\V30 DEMO-EN\V30Test-C#-En\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\V30 DEMO-EN\V30Test-C#-En\obj\Debug\WindowsApplication1.Form1.resources
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\V30 DEMO-EN\V30Test-C#-En\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\V30 DEMO-EN\V30Test-C#-En\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\V30 DEMO-EN\V30Test-C#-En\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\V30 DEMO-EN\V30Test-C#-En\obj\Debug\Demo.exe
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\V30 DEMO-EN\V30Test-C#-En\obj\Debug\Demo.pdb
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\V30 DEMO-EN\V30Test-C#-En\Demo.exe
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\V30 DEMO-EN\V30Test-C#-En\Demo.pdb

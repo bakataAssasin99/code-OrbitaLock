@@ -1,0 +1,2140 @@
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100007500
+
+p_startDate: 2203150900
+
+p_endDatee: 2203311200
+
+cardtype: G
+
+cardid: 93B9F1
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100007500
+
+reservationRoomId: 20803
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004800
+
+p_startDate: 2203150811
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: AAC848
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004800
+
+reservationRoomId: 20772
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004400
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: BC2B60
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004400
+
+reservationRoomId: 20805
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004C00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: B113A8
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004C00
+
+reservationRoomId: 20806
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004400
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: AFA433
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004400
+
+reservationRoomId: 20805
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008000
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: CEADC1
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008000
+
+reservationRoomId: 20807
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004600
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 9A0937
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004600
+
+reservationRoomId: 20808
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008700
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: D02112
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008700
+
+reservationRoomId: 20841
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008800
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 879335
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008800
+
+reservationRoomId: 20828
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008900
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: A3A854
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008900
+
+reservationRoomId: 20811
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008B00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: E54C11
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008B00
+
+reservationRoomId: 20842
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008C00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: E4C4B3
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008C00
+
+reservationRoomId: 20825
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008D00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: EA17FA
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008D00
+
+reservationRoomId: 20829
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100000200
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 9EA18C
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100000200
+
+reservationRoomId: 20843
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100000400
+
+p_startDate: 2203151019
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: B83EAC
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100000400
+
+reservationRoomId: 20721
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100000500
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: AC1F01
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100000500
+
+reservationRoomId: 20845
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100000600
+
+p_startDate: 2203151019
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: A47867
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100000600
+
+reservationRoomId: 20662
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100000800
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: E92BF2
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100000800
+
+reservationRoomId: 20830
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100000300
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: B87AB9
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100000300
+
+reservationRoomId: 20813
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100000100
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: D48FD8
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100000100
+
+reservationRoomId: 20812
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100000100
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: EFAA76
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100000100
+
+reservationRoomId: 20812
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100001900
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 9A934C
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100001900
+
+reservationRoomId: 20846
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100001B00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: D0E643
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100001B00
+
+reservationRoomId: 20814
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100001B00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: F65726
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100001B00
+
+reservationRoomId: 20814
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100001C00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: ACA78D
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100001C00
+
+reservationRoomId: 20848
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100001D00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: C585A2
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100001D00
+
+reservationRoomId: 20849
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100001E00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: B4EF76
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100001E00
+
+reservationRoomId: 20836
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100001F00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 87509C
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100001F00
+
+reservationRoomId: 20827
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002000
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: D8D95B
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002000
+
+reservationRoomId: 20831
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002100
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: BB2FF4
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002100
+
+reservationRoomId: 20815
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002200
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: A93315
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002200
+
+reservationRoomId: 20850
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002300
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: D702AC
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002300
+
+reservationRoomId: 20816
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002400
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: E20E7C
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002400
+
+reservationRoomId: 20851
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 18
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002500
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: A6C207
+
+changkai: Y
+
+writecard is result: 18
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002500
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: FDDEA3
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002500
+
+reservationRoomId: 20852
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002600
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: B8AAAC
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002600
+
+reservationRoomId: 20837
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002700
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 800462
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002700
+
+reservationRoomId: 20832
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 18
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002800
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: D60632
+
+changkai: Y
+
+writecard is result: 18
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002800
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: AB527A
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002800
+
+reservationRoomId: 20809
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 13
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008600
+
+p_startDate: 2203151029
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: B5E403
+
+changkai: Y
+
+writecard is result: 13
+
+_____CreateCard_____
+
+result: 18
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008600
+
+p_startDate: 2203151031
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: A88578
+
+changkai: Y
+
+writecard is result: 18
+
+_____ReadCard_____
+
+result: 0
+
+hotelApp: 411279
+
+cardtype: G
+
+cardid: A88578
+
+changkai: Y
+
+roomcd: 010100008600
+
+begdate: 2203151031
+
+enddate: 2203151200
+
+_____GetReservationRoomId_____
+
+lockNo :A88578
+
+reservaionRoomId :0
+
+_____DeleteCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 
+
+p_startDate: 2203151033
+
+p_endDatee: 2203161033
+
+cardtype: Q
+
+cardid: FFFFFF
+
+changkai: N
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008A00
+
+p_startDate: 2203151033
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: C0C5FD
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008A00
+
+reservationRoomId: 20798
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008A00
+
+p_startDate: 2203151034
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: BFE04D
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008A00
+
+reservationRoomId: 20798
+
+writecard is result: 0
+
+_____ReadCard_____
+
+result: 0
+
+hotelApp: 411279
+
+cardtype: G
+
+cardid: BFE04D
+
+changkai: Y
+
+roomcd: 010100008A00
+
+begdate: 2203151034
+
+enddate: 2203151200
+
+_____GetReservationRoomId_____
+
+lockNo :BFE04D
+
+reservaionRoomId :0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008A00
+
+p_startDate: 2203151034
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: FE0EFB
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008A00
+
+reservationRoomId: 20798
+
+writecard is result: 0
+
+_____ReadCard_____
+
+result: 0
+
+hotelApp: 411279
+
+cardtype: G
+
+cardid: FE0EFB
+
+changkai: Y
+
+roomcd: 010100008A00
+
+begdate: 2203151034
+
+enddate: 2203151200
+
+_____GetReservationRoomId_____
+
+lockNo :FE0EFB
+
+reservaionRoomId :0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002900
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: C9F298
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002900
+
+reservationRoomId: 20817
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002900
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 854CEF
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002900
+
+reservationRoomId: 20817
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002900
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: F0A9E4
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002900
+
+reservationRoomId: 20817
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100009200
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: BE2856
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100009200
+
+reservationRoomId: 20855
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002E00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 9B46D3
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002E00
+
+reservationRoomId: 20838
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100002F00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: D1C105
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100002F00
+
+reservationRoomId: 20833
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003100
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 945F44
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003100
+
+reservationRoomId: 20819
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003200
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: F9092F
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003200
+
+reservationRoomId: 20856
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003300
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 8DDA67
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003300
+
+reservationRoomId: 20820
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003400
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 9BF894
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003400
+
+reservationRoomId: 20857
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003500
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 9E14D1
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003500
+
+reservationRoomId: 20858
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003600
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: CFEEB6
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003600
+
+reservationRoomId: 20839
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003700
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: B01F91
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003700
+
+reservationRoomId: 20834
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003800
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: AC612B
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003800
+
+reservationRoomId: 20835
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003900
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: BAAAF4
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003900
+
+reservationRoomId: 20821
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003A00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 9C4282
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003A00
+
+reservationRoomId: 20859
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003B00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: B75D20
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003B00
+
+reservationRoomId: 20822
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003C00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: F9D6B2
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003C00
+
+reservationRoomId: 20860
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003D00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 9EB428
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003D00
+
+reservationRoomId: 20823
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003E00
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: C1C147
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003E00
+
+reservationRoomId: 20824
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100005400
+
+p_startDate: 2203151100
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: A5BDFA
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100005400
+
+reservationRoomId: 20862
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100006E00
+
+p_startDate: 2203151227
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 96B3E2
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100006E00
+
+reservationRoomId: 20749
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100006E00
+
+p_startDate: 2203151232
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: ECCEDA
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100006E00
+
+reservationRoomId: 20749
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100006E00
+
+p_startDate: 2203151232
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: DB8A15
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100006E00
+
+reservationRoomId: 20749
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 13
+
+p_hotelApp: 411279
+
+p_roomCode: 010100005B00
+
+p_startDate: 2203151312
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: 8CD1B1
+
+changkai: Y
+
+writecard is result: 13
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100005B00
+
+p_startDate: 2203151312
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: 835AC1
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100005B00
+
+reservationRoomId: 20787
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004200
+
+p_startDate: 2203151400
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: FB3CD5
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004200
+
+reservationRoomId: 20865
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004700
+
+p_startDate: 2203151428
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: B168B8
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004700
+
+reservationRoomId: 20868
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100003F00
+
+p_startDate: 2203151515
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 9916B1
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100003F00
+
+reservationRoomId: 20869
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004000
+
+p_startDate: 2203151525
+
+p_endDatee: 2203151200
+
+cardtype: G
+
+cardid: B4F8DD
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004000
+
+reservationRoomId: 20799
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008A00
+
+p_startDate: 2203151527
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: E28F65
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008A00
+
+reservationRoomId: 20866
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100006900
+
+p_startDate: 2203151613
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 80D915
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100006900
+
+reservationRoomId: 20870
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004900
+
+p_startDate: 2203151818
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: 92B091
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004900
+
+reservationRoomId: 20871
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100005200
+
+p_startDate: 2203151818
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: EB588C
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100005200
+
+reservationRoomId: 20872
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004E00
+
+p_startDate: 2203152002
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: EABB18
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004E00
+
+reservationRoomId: 20872
+
+writecard is result: 0
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004300
+
+p_startDate: 2203152202
+
+p_endDatee: 2203161200
+
+cardtype: G
+
+cardid: F9B4EE
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100004300
+
+reservationRoomId: 20876
+
+writecard is result: 0
+

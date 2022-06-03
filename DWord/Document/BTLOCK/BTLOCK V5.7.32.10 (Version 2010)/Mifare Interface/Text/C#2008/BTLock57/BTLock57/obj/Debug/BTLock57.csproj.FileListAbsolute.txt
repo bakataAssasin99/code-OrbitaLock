@@ -1,0 +1,41 @@
+C:\Documents and Settings\Administrator\桌面\C#项目\MF1酒店门锁电梯接口(含取电开关)\BTLock57\BTLock57\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#项目\MF1酒店门锁电梯接口(含取电开关)\BTLock57\BTLock57\obj\Debug\BTLock57.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C#项目\MF1酒店门锁电梯接口(含取电开关)\BTLock57\BTLock57\obj\Debug\BTLock57.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C#项目\MF1酒店门锁电梯接口(含取电开关)\BTLock57\BTLock57\obj\Debug\BTLock57.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C#项目\MF1酒店门锁电梯接口(含取电开关)\BTLock57\BTLock57\bin\Debug\BTLock57.exe
+C:\Documents and Settings\Administrator\桌面\C#项目\MF1酒店门锁电梯接口(含取电开关)\BTLock57\BTLock57\bin\Debug\BTLock57.pdb
+C:\Documents and Settings\Administrator\桌面\C#项目\MF1酒店门锁电梯接口(含取电开关)\BTLock57\BTLock57\obj\Debug\BTLock57.exe
+C:\Documents and Settings\Administrator\桌面\C#项目\MF1酒店门锁电梯接口(含取电开关)\BTLock57\BTLock57\obj\Debug\BTLock57.pdb
+C:\Users\Huy\Downloads\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.exe
+C:\Users\Huy\Downloads\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.pdb
+C:\Users\Huy\Downloads\Mifare Interface\Text\C#2008\BTLock57\BTLock57\bin\Debug\BTLock57.exe
+C:\Users\Huy\Downloads\Mifare Interface\Text\C#2008\BTLock57\BTLock57\bin\Debug\BTLock57.pdb
+C:\Users\Huy\Downloads\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.csprojResolveAssemblyReference.cache
+C:\Users\Huy\Downloads\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.Form1.resources
+C:\Users\Huy\Downloads\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.Properties.Resources.resources
+C:\Users\Huy\Downloads\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.csproj.GenerateResource.Cache
+F:\ezCloudHotel Backup\Tools\CodeConnectivity\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.exe
+F:\ezCloudHotel Backup\Tools\CodeConnectivity\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.pdb
+F:\ezCloudHotel Backup\Tools\CodeConnectivity\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\bin\Debug\BTLock57.exe
+F:\ezCloudHotel Backup\Tools\CodeConnectivity\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\bin\Debug\BTLock57.pdb
+F:\ezCloudHotel Backup\Tools\CodeConnectivity\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.csprojResolveAssemblyReference.cache
+F:\ezCloudHotel Backup\Tools\CodeConnectivity\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.Form1.resources
+F:\ezCloudHotel Backup\Tools\CodeConnectivity\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.Properties.Resources.resources
+F:\ezCloudHotel Backup\Tools\CodeConnectivity\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.csproj.GenerateResource.Cache
+C:\ezCloud\Code\Connectivity\Adel\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\bin\Debug\BTLock57.exe
+C:\ezCloud\Code\Connectivity\Adel\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\bin\Debug\BTLock57.pdb
+C:\ezCloud\Code\Connectivity\Adel\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.Form1.resources
+C:\ezCloud\Code\Connectivity\Adel\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.Properties.Resources.resources
+C:\ezCloud\Code\Connectivity\Adel\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.csproj.GenerateResource.Cache
+C:\ezCloud\Code\Connectivity\Adel\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.csproj.CoreCompileInputs.cache
+C:\ezCloud\Code\Connectivity\Adel\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.exe
+C:\ezCloud\Code\Connectivity\Adel\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.pdb
+E:\Code\Lock\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\bin\Debug\BTLock57.exe
+E:\Code\Lock\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\bin\Debug\BTLock57.pdb
+E:\Code\Lock\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.csprojAssemblyReference.cache
+E:\Code\Lock\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.Form1.resources
+E:\Code\Lock\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.Properties.Resources.resources
+E:\Code\Lock\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.csproj.GenerateResource.cache
+E:\Code\Lock\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.csproj.CoreCompileInputs.cache
+E:\Code\Lock\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.exe
+E:\Code\Lock\BTech\Mifare Interface\Text\C#2008\BTLock57\BTLock57\obj\Debug\BTLock57.pdb

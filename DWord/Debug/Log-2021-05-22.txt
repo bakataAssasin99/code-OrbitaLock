@@ -1,0 +1,436 @@
+--------writecard-------------
+
+request.RoomName :101
+
+roomCode :010100008700
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008700
+
+p_startDate: 2105221544
+
+p_endDatee: 2105231200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008700
+
+reservationRoomId: 20001
+
+writecard is result: 0
+
+--------writecard-------------
+
+request.RoomName :101
+
+roomCode :010100008700
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008700
+
+p_startDate: 2105221544
+
+p_endDatee: 2105231200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008700
+
+reservationRoomId: 20001
+
+writecard is result: 0
+
+--------writecard-------------
+
+request.RoomName :101
+
+roomCode :010100008700
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008700
+
+p_startDate: 2105221545
+
+p_endDatee: 2105231200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008700
+
+reservationRoomId: 20001
+
+writecard is result: 0
+
+--------writecard-------------
+
+request.RoomName :101
+
+roomCode :010100008700
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008700
+
+p_startDate: 2105221547
+
+p_endDatee: 2105231200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008700
+
+reservationRoomId: 20001
+
+writecard is result: 0
+
+--------writecard-------------
+
+request.RoomName :102
+
+roomCode :010100008800
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008800
+
+p_startDate: 2105221550
+
+p_endDatee: 2105231200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008800
+
+reservationRoomId: 20002
+
+writecard is result: 0
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+result: 0
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008900
+
+p_startDate: 2105221553
+
+p_endDatee: 2105231200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+_____SetReservationRoomId_____
+
+roomName: 010100008900
+
+reservationRoomId: 20003
+
+writecard is result: 0
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+result: 13
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008900
+
+p_startDate: 2105221554
+
+p_endDatee: 2105232200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+writecard is result: 13
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+result: 600
+
+result: 600
+
+p_hotelApp: 411279
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008900
+
+p_startDate: 2105221554
+
+p_endDatee: 2105232200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+writecard is result: 600
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+api err :System.Runtime.InteropServices.SEHException: External component has thrown an exception.
+   at DoorLock.Connector.DoorLockConnector.WriteCard(StringBuilder HotelID, StringBuilder cardtype, StringBuilder cardid, StringBuilder changkai, StringBuilder roomcode, StringBuilder begindate, StringBuilder enddate)
+   at DoorLock.Connector.DoorLockConnector.temic2020_CreateCard(String roomCode, DateTime startDate, DateTime endDate) in C:\ezCloudConnLock\Temic 2012\DoorLock\Connector\DoorLockConnector.cs:line 126
+   at DoorLock.Services.ApiService.Run(ApiRequest request) in C:\ezCloudConnLock\Temic 2012\DoorLock\Services\ApiService.cs:line 46
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+api err :System.IO.IOException: The process cannot access the file 'E:\ezCloud lock\Elock2012Temic5557\Debug\Log-2021-05-22.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at DoorLock.Log.Write(String strLog) in C:\ezCloudConnLock\Temic 2012\DoorLock\Log.cs:line 35
+   at DoorLock.Connector.DoorLockConnector.temic2020_CreateCard(String roomCode, DateTime startDate, DateTime endDate) in C:\ezCloudConnLock\Temic 2012\DoorLock\Connector\DoorLockConnector.cs:line 129
+   at DoorLock.Services.ApiService.Run(ApiRequest request) in C:\ezCloudConnLock\Temic 2012\DoorLock\Services\ApiService.cs:line 46
+
+api err :System.IO.IOException: The process cannot access the file 'E:\ezCloud lock\Elock2012Temic5557\Debug\Log-2021-05-22.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at DoorLock.Log.Write(String strLog) in C:\ezCloudConnLock\Temic 2012\DoorLock\Log.cs:line 35
+   at DoorLock.Connector.DoorLockConnector.temic2020_CreateCard(String roomCode, DateTime startDate, DateTime endDate) in C:\ezCloudConnLock\Temic 2012\DoorLock\Connector\DoorLockConnector.cs:line 127
+   at DoorLock.Services.ApiService.Run(ApiRequest request) in C:\ezCloudConnLock\Temic 2012\DoorLock\Services\ApiService.cs:line 46
+
+--------writecard-------------
+
+request.RoomName :103
+
+roomCode :010100008900
+
+_____CreateCard_____
+
+result: 600
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008900
+
+p_startDate: 2105221555
+
+p_endDatee: 2105232200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+writecard is result: 600
+
+api err :System.AccessViolationException: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+   at DoorLock.Connector.DoorLockConnector.WriteCard(StringBuilder HotelID, StringBuilder cardtype, StringBuilder cardid, StringBuilder changkai, StringBuilder roomcode, StringBuilder begindate, StringBuilder enddate)
+   at DoorLock.Connector.DoorLockConnector.temic2020_CreateCard(String roomCode, DateTime startDate, DateTime endDate) in C:\ezCloudConnLock\Temic 2012\DoorLock\Connector\DoorLockConnector.cs:line 126
+   at DoorLock.Services.ApiService.Run(ApiRequest request) in C:\ezCloudConnLock\Temic 2012\DoorLock\Services\ApiService.cs:line 46
+
+result: 400
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008900
+
+p_startDate: 2105221554
+
+p_endDatee: 2105232200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+writecard is result: 400
+
+result: 400
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008900
+
+p_startDate: 2105221555
+
+p_endDatee: 2105232200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+writecard is result: 400
+
+result: 18
+
+p_hotelApp: 411279
+
+p_roomCode: 010100008900
+
+p_startDate: 2105221554
+
+p_endDatee: 2105232200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+writecard is result: 18
+
+_____ReadCard_____
+
+result: 0
+
+hotelApp: 411279
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+roomcd: 010100008900
+
+begdate: 2105221554
+
+enddate: 2105232200
+
+_____GetReservationRoomId_____
+
+lockNo :010100008900
+
+reservaionRoomId :20003
+

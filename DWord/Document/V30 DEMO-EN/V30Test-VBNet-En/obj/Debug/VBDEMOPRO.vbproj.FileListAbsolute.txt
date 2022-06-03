@@ -1,0 +1,10 @@
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\bin\VBTest.exe
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\bin\VBTest.pdb
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\bin\VBTest.xml
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\obj\Debug\VBDEMOPRO.vbprojAssemblyReference.cache
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\obj\Debug\VBTest.FormMain.resources
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\obj\Debug\VBDEMOPRO.vbproj.GenerateResource.cache
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\obj\Debug\VBDEMOPRO.vbproj.CoreCompileInputs.cache
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\obj\Debug\VBTest.exe
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\obj\Debug\VBTest.xml
+E:\MyProgramme\DLL\MFDLLv30-1905\MFDLLv30-1905-Guest\V30 DEMO\V30Test-VBNet-En\obj\Debug\VBTest.pdb

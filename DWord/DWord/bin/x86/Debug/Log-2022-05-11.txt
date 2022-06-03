@@ -1,0 +1,28 @@
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Working space\Source\ezcloudconnectivitymaster\BTech\Document\btlock57.mdb;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Working space\Source\ezcloudconnectivitymaster\BTech\Document\btlock57.mdb;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Working space\Source\ezcloudconnectivitymaster\BTech\Document\btlock57.mdb;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Working space\Source\ezcloudconnectivitymaster\BTech\Document\btlock57.mdb;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Working space\Source\ezcloudconnectivitymaster\BTech\Document\btlock57.mdb;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Working space\Source\ezcloudconnectivitymaster\BTech\Document\btlock57.mdb;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Working space\Source\ezcloudconnectivitymaster\BTech\Document\btlock57.mdb;
+
+Connect DB SUCCESS
+

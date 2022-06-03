@@ -1,0 +1,36 @@
+_____ReadCard_____
+
+result: 100
+
+hotelApp: 411279
+
+cardtype: 
+
+cardid: 
+
+changkai: 
+
+roomcd: 
+
+begdate: 
+
+enddate: 
+
+_____ReadCard_____
+
+result: 100
+
+hotelApp: 411279
+
+cardtype: 
+
+cardid: 
+
+changkai: 
+
+roomcd: 
+
+begdate: 
+
+enddate: 
+

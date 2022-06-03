@@ -1,0 +1,149 @@
+___WRITECARD___ ORBITA
+
+___Cardbuilder___
+
+err:    at DWord.Services.OrbitaLock.OrbitaSDK.dv_write_card(Char[] auth, Char[] building, Char[] room, Char[] commdoors, Char[] arrival, Char[] departure)
+   at DWord.Services.OrbitaLock.OrbitaService.WriteCard(Card card, Boolean isOnlyWritecard) in D:\DownloadMove\DWord\DWord\Services\OrbitaLock\OrbitaService.cs:line 81
+   at DWord.Services.LockService.WriteCard(Int32 port, Card card, Boolean isUseDupKey) in D:\DownloadMove\DWord\DWord\Services\LockService.cs:line 58
+   at DWord.Services.MainService.Run(CardInfo request) in D:\DownloadMove\DWord\DWord\Services\MainService.cs:line 59 - System.DllNotFoundException: Unable to load DLL 'CLock.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at DWord.Services.OrbitaLock.OrbitaSDK.dv_write_card(Char[] auth, Char[] building, Char[] room, Char[] commdoors, Char[] arrival, Char[] departure)
+   at DWord.Services.OrbitaLock.OrbitaService.WriteCard(Card card, Boolean isOnlyWritecard) in D:\DownloadMove\DWord\DWord\Services\OrbitaLock\OrbitaService.cs:line 81
+   at DWord.Services.LockService.WriteCard(Int32 port, Card card, Boolean isUseDupKey) in D:\DownloadMove\DWord\DWord\Services\LockService.cs:line 58
+   at DWord.Services.MainService.Run(CardInfo request) in D:\DownloadMove\DWord\DWord\Services\MainService.cs:line 59
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+___WRITECARD___ ORBITA
+
+___Cardbuilder___
+
+_____Create card obita_____
+
+result: -2
+
+building: 01
+
+room: 202
+
+commdoors: 
+
+auth: 904612
+
+arrival: 2022-06-01 15:45:36
+
+departure: 2022-06-01 15:46:36
+
+reservationRoomId 12170472
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+___WRITECARD___ ORBITA
+
+___Cardbuilder___
+
+_____Create card obita_____
+
+result: -2
+
+building: 01
+
+room: 202
+
+commdoors: 12170472
+
+auth: 904612
+
+arrival: 2022-06-01 15:57:08
+
+departure: 2022-06-01 15:58:08
+
+reservationRoomId 12170472
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+___WRITECARD___ ORBITA
+
+___Cardbuilder___
+
+_____Create card obita_____
+
+result: -2
+
+building: 01
+
+room: 202
+
+commdoors: 12170472
+
+auth: 904612
+
+arrival: 2022-06-01 16:09:05
+
+departure: 2022-06-01 16:10:05
+
+reservationRoomId 12170472
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+___WRITECARD___ ORBITA
+
+___Cardbuilder___
+
+_____Create card obita_____
+
+result: -2
+
+building: 01
+
+room: 202
+
+commdoors: 12170472
+
+auth: B6BBC182
+
+arrival: 2022-06-01 16:16:26
+
+departure: 2022-06-01 16:17:26
+
+reservationRoomId 12170472
+

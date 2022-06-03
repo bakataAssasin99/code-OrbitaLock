@@ -1,0 +1,228 @@
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+___WRITECARD___ ORBITA
+
+___Cardbuilder___
+
+Write card fail: -2 Connect encoder failed
+
+_____Create card obita_____
+
+result: -2
+
+building: 01
+
+room: 
+
+commdoors: 12170472
+
+auth: B6BBC182
+
+arrival: 2022-06-02 10:54:17
+
+departure: 2022-06-02 10:55:17
+
+reservationRoomId 12170472
+
+___WRITECARD___ ORBITA
+
+___Cardbuilder___
+
+Write card fail: -2 Connect encoder failed
+
+_____Create card obita_____
+
+result: -2
+
+building: 01
+
+room: 
+
+commdoors: 12196482
+
+auth: B6BBC182
+
+arrival: 2022-06-02 10:55:13
+
+departure: 2022-06-03 12:30:00
+
+reservationRoomId 12196482
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+err:System.Data.OleDb.OleDbException (0x80004005): Could not find file 'D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\HTLockDB.mdb'.
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DWord.Services.DWordLockService.CheckConnectAccessFile(String url) in D:\DownloadMove\DWord\DWord\Services\DWord\DWordLockService.cs:line 286
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\DownloadMove\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+err:System.Data.OleDb.OleDbException (0x80004005): Could not find file 'D:\DownloadMove\HTLockDB.mdb'.
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DWord.Services.DWordLockService.CheckConnectAccessFile(String url) in D:\DownloadMove\DWord\DWord\Services\DWord\DWordLockService.cs:line 286
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\DownloadMove\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+err:System.Data.OleDb.OleDbException (0x80004005): Could not find file 'D:\DownloadMove\HTLockDB.mdb'.
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DWord.Services.DWordLockService.CheckConnectAccessFile(String url) in D:\DownloadMove\DWord\DWord\Services\DWord\DWordLockService.cs:line 286
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\DownloadMove\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+err:System.Data.OleDb.OleDbException (0x80004005): Could not find file 'D:\DownloadMove\HTLockDB.mdb'.
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DWord.Services.DWordLockService.CheckConnectAccessFile(String url) in D:\DownloadMove\DWord\DWord\Services\DWord\DWordLockService.cs:line 286
+
+___WRITECARD___ BTLOCK
+
+___Cardbuilder___
+
+roomAddress: 000101
+
+___WRITECARD___ 
+
+nCom: 1
+
+readerModel: 4
+
+sectorNo: 0
+
+systemPassword: B6BBC182
+
+guestSN: 707483060
+
+roomCode: 000101
+
+suitDoor: 0000
+
+pubDoor: 00000000
+
+p_startDate: 2206021104
+
+p_endDatee: 2206031230
+
+result: 1
+
+Write card fail: 1 Open serial com port error
+
+reservationRoomId 12196606
+
+___ReadCard___ BTLOCK
+
+___ReadCard___ 
+
+reservationRoomId 
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\DownloadMove\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\DownloadMove\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+err:System.Data.OleDb.OleDbException (0x80004005): Could not find file 'D:\DownloadMove\dabase.mdb'.
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DWord.Services.OrbitaLock.OrbitaService.CheckConnectAccessFile(String url) in D:\DownloadMove\DWord\DWord\Services\OrbitaLock\OrbitaService.cs:line 35
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\DownloadMove\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\DownloadMove\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+err:System.Data.OleDb.OleDbException (0x80004005): Could not find file 'D:\DownloadMove\dabase.mdb'.
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DWord.Services.OrbitaLock.OrbitaService.CheckConnectAccessFile(String url) in D:\DownloadMove\DWord\DWord\Services\OrbitaLock\OrbitaService.cs:line 35
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+___WRITECARD___ ORBITA
+
+___Cardbuilder___
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Documents\ezcloudconnectivitymaster\OrbitaLock - STKLock\Hune5.0\db\dabase.mdb;Jet OLEDB:Database Password=orbita91.wxy-;
+
+Connect DB SUCCESS
+
+___ReadCard___ BTLOCK
+
+___ReadCard___ 
+
+reservationRoomId 
+

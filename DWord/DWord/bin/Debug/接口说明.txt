@@ -1,0 +1,255 @@
+卡操作接口说明
+接口包含文件：MasterCom.dll、MasterRD.dll、MF.ini、MFCard.dll、ins.dll、lockinfo.xml、lockstate.xml、lossinfo.xml
+一、配置文件说明
+1、配置文件MF.ini
+stock：开始绝对块号     
+baud：速率
+port：串口号                       
+maxport：最大串口号
+2、数据文件
+lockinfo.xml：刷卡记录
+lockstate.xml：门锁状态记录
+lossinfo.xml：挂失记录
+二、接口函数说明
+1、设置操作
+function MF_OpenConnection(cport, cbaud:integer):boolean;
+用途：检测cport是否能连通读卡器，返回连接结果。
+参数说明：
+cport：串口号
+cbaud：速率
+
+function MF_SearchConnection(var gport:integer):boolean;
+用途：从0开始到最大串口号内，搜索连接了读卡器的串口号，返回结果标识是否找到对应的串口号。
+参数说明：
+Gport：已连接上读卡器的串口号
+
+2、程序授权
+function MF_Rewrite_AutCode:byte;stdcall;external 'MFCard.dll';
+用途：在第一次使用接口时，必须先授权。将授权卡放在读卡器上，执行该函数。返回授权结果，返回5代表授权成功，其它返回结果请查看卡操作结果说明。
+
+3、读卡操作
+function MF_GetCardType(var cardtype:byte):byte;
+用途：获取卡类型，返回卡操作结果，具体请查看卡操作结果说明。
+参数说明：
+cardtype：卡类型，具体请查看卡类型说明
+
+function MF_ CheckCard:byte;
+用途：检查卡是否符合读写要求，返回卡操作结果，具体请查看卡操作结果说明。
+
+function MF_R_CommonCard(var cardNo:integer; var cardinfo:byte):byte;
+用途：读取除授权卡、挂失卡和多门卡以外的所有卡，返回卡操作结果，具体请查看卡操作结果说明。
+参数说明：
+cardno：卡号
+cardinfo：卡内容数组首地址，数据顺序请查看卡内容数组
+
+function R_LossCard(var cardno:integer;var cardinfo:byte;var lossno:integer):byte;
+用途：读取挂失卡，返回卡操作结果，具体请查看卡操作结果说明。
+参数说明：
+cardno：卡号
+cardinfo：卡内容数组首地址，数据顺序请查看卡内容数组
+lossno：挂失的卡号数组地址，数组范围0~11
+
+function R_MultiDoorCard(var cardno:integer;var cardinfo:byte;var roominfo:byte):byte;
+用途：读取多门卡，返回卡操作结果，具体请查看卡操作结果说明。
+参数说明：
+cardno：卡号
+cardinfo：卡内容数组首地址，数据顺序请查看卡内容数组
+roominfo：房间信息数组，数组范围0~47，数组显示顺序为楼号1、层号1、房号1、套房1、楼号2、层号2……房号12、套房12
+
+function MF_ ReadQueryCard (cardtype:byte):byte;
+用途：读取汇总卡中，门锁的内容，返回卡操作结果，具体请查看卡操作结果说明。读取完成后，卡A将门锁状态记录、挂失记录和刷卡记录的数据分别写到lockstate.xml、lossinfo.xml、lockinfo.xml，具体每个字段对应的数据内容，请参考数据字段说明。
+参数说明：
+cardtype：卡类型
+
+4、写卡操作
+function MF_W_CommonCard(cardNo:integer; var cardinfo:byte):byte;
+用途：写除授权卡、挂失卡和多门卡以外的卡，返回卡操作结果，具体请查看卡操作结果说明。
+参数说明：参考MF_R_CommonCard
+
+function W_LossCard(cardno:integer;var cardinfo:byte;var lossno:integer):byte;
+用途：写挂失卡，返回卡操作结果，具体请查看卡操作结果说明。
+参数说明：参考R_LossCard
+
+function W_MultiDoorCard(cardno:integer;var cardinfo:byte;var roominfo:byte):byte;
+用途：写多门卡，返回卡操作结果，具体请查看卡操作结果说明。
+参数说明：参考R_MultiDoorCard
+
+5、卡注销
+function MF_Logout:byte;
+用途：注销卡，返回注销结果。
+
+6、辅助函数
+procedure MF_GetFlag(openBackLock,compareTime,loss,drive:boolean; var flag:byte);
+用途：通过控制参数获得标志值。
+参数说明：
+openBackLock：开反锁                      
+compareTime：比较时间
+loss：挂失。刷卡后，开始时间在该卡开始时间之前的，同类型的卡会被挂失
+drive：带动
+flag：控制参数标志值
+
+procedure MF_GetSuite(var s:boolean; var suite:byte);
+用途：通过套房数组获得套房数值。
+参数说明：
+s：套房数组地址，数组长度为8
+suite：套房数值
+
+procedure MF_GetWeek(var w:boolean; var week:byte);
+用途：通过星期数组获得时间表数值。
+参数说明：
+w：星期数组地址，数组长度为7，数组顺序是周日、周一、周二、周三、周四、周五、周六
+week：时间表数值
+
+procedure MF_GetPeriod(var pe:boolean; var am:byte; var pm:byte);
+用途：通过时间段数组获得时间段数值。
+参数说明：
+pe：时间段数组地址，数组长度为16
+am：上午时段数值
+pm：下午时段数值
+其中，上午时间段为00:00~01:30、01:30~03:00……10:30~12:00，下午时间段为12:00~13:30、13:30~15:00……22:30~00:00，90分钟为一个时间段。
+
+procedure MF_SetFlag(flag:integer;var openBackLock:boolean;var compareTime:boolean;var loss:boolean;var drive:boolean);
+用途：通过控制标志值，获得各个标志位的值。
+参数说明：
+flag：控制标志值
+openBackLock：开反锁     
+compareTime：比较时间
+loss：挂失         
+drive：带动
+
+procedure MF_SetSuite(suite:integer;var s:boolean);
+用途：通过套房数值，获得各个套房的值。
+参数说明：
+suite：套房数值
+s：各个套房值的数组首地址
+procedure MF_SetWeek(week:integer;var w:boolean);
+用途：通过星期数值，获取从周日到周六的值。
+参数说明：
+week：星期数值     w：从周日到周六的值的数组首地址
+
+procedure MF_SetPeriod(am:byte; pm:byte; var pe:boolean);
+用途：通过时间段数值，获取各个时间段的值。
+参数说明：
+am：上午时段数值          pm：下午时段数值            pe：各个时间段的值的数值首地址
+其中，上午时间段为00:00~01:30、01:30~03:00……10:30~12:00，下午时间段为12:00~13:30、13:30~15:00……22:30~00:00，90分钟为一个时间段。
+
+7、卡类型说明
+卡类型编码	卡类型
+0	宾客卡
+1	挂失卡
+2	终止卡
+3	楼层卡
+4	清洁卡
+5	楼号卡
+6	总控卡
+7	应急卡
+8	房号卡
+9	区域设置卡
+11	封闭卡
+12	时钟卡
+13	常开卡
+14	授权卡
+15	勿扰卡
+16	报警卡
+17	通道设置卡
+18	汇总卡A
+19	汇总卡B
+20	汇总卡C
+21	多门卡
+8、参数说明：
+cardinfo：integer数组的首地址，数组结构如下：
+	0	1	2~6	7~11	12	13	14	15
+宾客卡	卡类型	控制标识	开始时间	结束时间	楼号	层号	房号	套房
+挂失卡			开始时间	结束时间				
+终止卡			开始时间	结束时间				
+楼层卡			开始时间	结束时间	楼号	层号		
+清洁卡			开始时间	结束时间	区号	时间表	上午时间段	下午时间段
+楼号卡			开始时间	结束时间	楼号			
+总控卡			开始时间	结束时间				
+应急卡			开始时间	结束时间				
+房号卡			开始时间	结束时间	楼号	层号	房号	套房
+区域设置卡			开始时间	结束时间				
+封闭卡			开始时间	结束时间				
+时钟卡			当前时间	当前星期				
+常开卡			开始时间	结束时间				
+勿扰卡			开始时间	结束时间				
+报警卡			开始时间	结束时间				
+汇总卡			开始时间	结束时间				
+多门卡			开始时间	结束时间				
+临时宾客卡			开始时间	结束时间	楼号	层号	房号	套房
+数组长度根据上表内容而定，时间格式为yyMMddhhmm。
+
+9、函数返回值说明
+返回值	说明
+0	发卡器没连接
+1	寻卡失败	
+2	存在干扰卡	
+3	卡激活失败	
+4	卡校验失败	
+5	该卡为授权卡/授权成功	
+6	该卡已挂失
+7	该卡为空白卡
+8	卡信息校验错误/非本系统卡
+9	无效卡
+98	读/写卡失败
+99	读/写卡成功
+
+10、数据字段说明
+lockstate.xml
+字段名	说明
+blockno	楼号
+floorno	层号
+roomno	房号
+serviceno	服务区号
+paused	中止标识，0x00：中止，0xFF：非中止
+closed	封闭标识，0x00：封闭，0xFF：解封
+permanentopen	常开标识，0x00：常开，0xFF：非常开
+nodisturb	勿扰标识，0x00：勿扰，0xFF：非勿扰
+alarm	报警标识，0x00：报警，0xFF：非报警
+roll	翻滚，0x00：记录已翻滚，0xFF：记录未翻滚
+currentaddress	开门记录当前地址
+state	0x00：开门，0xFF：关门
+
+lockinfo.xml
+字段名	说明
+cardtype	卡类型
+cardno	卡号
+optime	操作时间
+optype	操作类型
+opflag	手柄标志
+卡类型：请参照卡类型说明
+操作类型：0：开       1：关       2：机械钥匙开门       3：设置        4：开后自动关门       5：被配置为临时卡
+手柄标志：0：有动作      1：无动作
+
+
+lossinfo.xml
+字段名	说明
+c0	宾客卡挂失时间
+c1	挂失卡挂失时间
+c2	退房卡挂失时间
+c3	楼层卡挂失时间
+c4	清洁卡挂失时间
+c5	楼号卡挂失时间
+c6	总控卡挂失时间
+c7	应急卡挂失时间
+c8	房号卡挂失时间
+c9	区域设置卡挂失时间
+c10	保留字段，暂时不用
+c11	封闭卡挂失时间
+c12	时钟卡挂失时间
+c13	常开卡挂失时间
+c14	保留字段，暂时不用
+c15	勿扰卡挂失时间
+c16	报警卡挂失时间
+c17	通道设置卡挂失时间
+c18	汇总A卡挂失时间
+c19	汇总B卡挂失时间
+c20	汇总C卡挂失时间
+c21	多门卡挂失时间
+
+11、常用类型说明
+integer：signed 32-bit，范围-2147483648~2147483647
+boolean：布尔类型，true/false
+byte：unsigned 8-bit，范围0~255
+三、例子说明
+已提供Delphi、C#、VB、PB的授权、读写宾客卡的DEMO，具体请参考文件夹内的DEMO文件。

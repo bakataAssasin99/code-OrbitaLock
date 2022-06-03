@@ -1,0 +1,74 @@
+___WRITECARD___ BTLOCK
+
+___Cardbuilder___
+
+err:System.Data.OleDb.OleDbException (0x80040E07): Data type mismatch in criteria expression.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at DWord.Services.BTLock.BTLockServices.GetLiftNoAccessFile(String lockNo) in D:\DownloadMove\DWord\DWord\Services\BTLock\BTLockServices.cs:line 498
+
+___WRITECARD___ 
+
+err:    at DWord.Services.BTLock.BTLockServices.WriteCard(Card card, Boolean isOnlyWritecard) in D:\DownloadMove\DWord\DWord\Services\BTLock\BTLockServices.cs:line 49
+   at DWord.Services.LockService.WriteCard(Int32 port, Card card, Boolean isUseDupKey) in D:\DownloadMove\DWord\DWord\Services\LockService.cs:line 54
+   at DWord.Services.MainService.Run(CardInfo request) in D:\DownloadMove\DWord\DWord\Services\MainService.cs:line 59 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at DWord.Services.BTLock.BTLockServices.WriteCard(Card card, Boolean isOnlyWritecard) in D:\DownloadMove\DWord\DWord\Services\BTLock\BTLockServices.cs:line 49
+   at DWord.Services.LockService.WriteCard(Int32 port, Card card, Boolean isUseDupKey) in D:\DownloadMove\DWord\DWord\Services\LockService.cs:line 54
+   at DWord.Services.MainService.Run(CardInfo request) in D:\DownloadMove\DWord\DWord\Services\MainService.cs:line 59
+
+___WRITECARD___ BTLOCK
+
+___Cardbuilder___
+
+roomAddress: 000202
+
+___WRITECARD___ 
+
+err:    at DWord.Services.BTLock.BTLockSDK.SerialNo_FromNow()
+   at DWord.Services.BTLock.BTLockServices.WriteCard(Card card, Boolean isOnlyWritecard) in D:\DownloadMove\DWord\DWord\Services\BTLock\BTLockServices.cs:line 60
+   at DWord.Services.LockService.WriteCard(Int32 port, Card card, Boolean isUseDupKey) in D:\DownloadMove\DWord\DWord\Services\LockService.cs:line 54
+   at DWord.Services.MainService.Run(CardInfo request) in D:\DownloadMove\DWord\DWord\Services\MainService.cs:line 59 - System.DllNotFoundException: Unable to load DLL 'btLock57L.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at DWord.Services.BTLock.BTLockSDK.SerialNo_FromNow()
+   at DWord.Services.BTLock.BTLockServices.WriteCard(Card card, Boolean isOnlyWritecard) in D:\DownloadMove\DWord\DWord\Services\BTLock\BTLockServices.cs:line 60
+   at DWord.Services.LockService.WriteCard(Int32 port, Card card, Boolean isUseDupKey) in D:\DownloadMove\DWord\DWord\Services\LockService.cs:line 54
+   at DWord.Services.MainService.Run(CardInfo request) in D:\DownloadMove\DWord\DWord\Services\MainService.cs:line 59
+
+___WRITECARD___ BTLOCK
+
+___Cardbuilder___
+
+roomAddress: 000202
+
+___WRITECARD___ 
+
+nCom: 1
+
+readerModel: 4
+
+sectorNo: 0
+
+systemPassword: B6BBC182
+
+guestSN: 707323207
+
+roomCode: 000202
+
+suitDoor: 0000
+
+pubDoor: 00000000
+
+p_startDate: 2205311145
+
+p_endDatee: 2206011230
+
+result: 1
+
+Write card fail: 1 Open serial com port error
+
+reservationRoomId 12170472
+

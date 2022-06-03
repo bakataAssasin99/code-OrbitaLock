@@ -1,0 +1,371 @@
+err: System.Configuration.ConfigurationErrorsException: Configuration system failed to initialize ---> System.Configuration.ConfigurationErrorsException: Unrecognized configuration section userSettings/AdelLock.Properties.Settings. (D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\DWord.exe.Config line 44)
+   at System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- End of inner exception stack trace ---
+   at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Diagnostics.DiagnosticsConfiguration.GetConfigSection()
+   at System.Diagnostics.DiagnosticsConfiguration.Initialize()
+   at System.Diagnostics.DiagnosticsConfiguration.get_Sources()
+   at System.Diagnostics.TraceSource.Initialize()
+   at System.Net.Logging.InitializeLogging()
+   at System.Net.Logging.get_On()
+   at System.Net.HttpListener..ctor()
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 65
+
+err: System.Configuration.ConfigurationErrorsException: Configuration system failed to initialize ---> System.Configuration.ConfigurationErrorsException: Unrecognized configuration section userSettings/AdelLock.Properties.Settings. (D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\DWord.exe.Config line 44)
+   at System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- End of inner exception stack trace ---
+   at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Diagnostics.DiagnosticsConfiguration.GetConfigSection()
+   at System.Diagnostics.DiagnosticsConfiguration.Initialize()
+   at System.Diagnostics.DiagnosticsConfiguration.get_Sources()
+   at System.Diagnostics.TraceSource.Initialize()
+   at System.Net.Logging.InitializeLogging()
+   at System.Net.Logging.get_On()
+   at System.Net.HttpListener..ctor()
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 65
+
+err: System.Configuration.ConfigurationErrorsException: Configuration system failed to initialize ---> System.Configuration.ConfigurationErrorsException: Unrecognized configuration section userSettings/AdelLock.Properties.Settings. (D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\DWord.exe.Config line 44)
+   at System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- End of inner exception stack trace ---
+   at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Diagnostics.DiagnosticsConfiguration.GetConfigSection()
+   at System.Diagnostics.DiagnosticsConfiguration.Initialize()
+   at System.Diagnostics.DiagnosticsConfiguration.get_Sources()
+   at System.Diagnostics.TraceSource.Initialize()
+   at System.Net.Logging.InitializeLogging()
+   at System.Net.Logging.get_On()
+   at System.Net.HttpListener..ctor()
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 65
+
+err: System.Configuration.ConfigurationErrorsException: Configuration system failed to initialize ---> System.Configuration.ConfigurationErrorsException: Unrecognized configuration section userSettings/AdelLock.Properties.Settings. (D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\DWord.exe.Config line 44)
+   at System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- End of inner exception stack trace ---
+   at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Diagnostics.DiagnosticsConfiguration.GetConfigSection()
+   at System.Diagnostics.DiagnosticsConfiguration.Initialize()
+   at System.Diagnostics.DiagnosticsConfiguration.get_Sources()
+   at System.Diagnostics.TraceSource.Initialize()
+   at System.Net.Logging.InitializeLogging()
+   at System.Net.Logging.get_On()
+   at System.Net.HttpListener..ctor()
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 65
+
+err: System.Configuration.ConfigurationErrorsException: Configuration system failed to initialize ---> System.Configuration.ConfigurationErrorsException: Unrecognized configuration section userSettings/AdelLock.Properties.Settings. (D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\DWord.exe.Config line 44)
+   at System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- End of inner exception stack trace ---
+   at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Diagnostics.DiagnosticsConfiguration.GetConfigSection()
+   at System.Diagnostics.DiagnosticsConfiguration.Initialize()
+   at System.Diagnostics.DiagnosticsConfiguration.get_Sources()
+   at System.Diagnostics.TraceSource.Initialize()
+   at System.Net.Logging.InitializeLogging()
+   at System.Net.Logging.get_On()
+   at System.Net.HttpListener..ctor()
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 65
+
+err: System.Configuration.ConfigurationErrorsException: Configuration system failed to initialize ---> System.Configuration.ConfigurationErrorsException: Unrecognized configuration section userSettings/AdelLock.Properties.Settings. (D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\DWord.exe.Config line 44)
+   at System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- End of inner exception stack trace ---
+   at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Diagnostics.DiagnosticsConfiguration.GetConfigSection()
+   at System.Diagnostics.DiagnosticsConfiguration.Initialize()
+   at System.Diagnostics.DiagnosticsConfiguration.get_Sources()
+   at System.Diagnostics.TraceSource.Initialize()
+   at System.Net.Logging.InitializeLogging()
+   at System.Net.Logging.get_On()
+   at System.Net.HttpListener..ctor()
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 65
+
+err: System.Configuration.ConfigurationErrorsException: Configuration system failed to initialize ---> System.Configuration.ConfigurationErrorsException: Unrecognized configuration section userSettings/AdelLock.Properties.Settings. (D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\DWord.exe.Config line 44)
+   at System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- End of inner exception stack trace ---
+   at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Net.Configuration.SettingsSectionInternal.get_Section()
+   at System.Net.Sockets.Socket.InitializeSockets()
+   at System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   at System.Net.Dns.GetHostEntry(String hostNameOrAddress)
+   at System.Net.ServiceNameStore.BuildServiceNames(String uriPrefix)
+   at System.Net.ServiceNameStore.Add(String uriPrefix)
+   at System.Net.HttpListener.AddPrefix(String uriPrefix)
+   at System.Net.HttpListenerPrefixCollection.Add(String uriPrefix)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 65
+
+err: System.Configuration.ConfigurationErrorsException: Configuration system failed to initialize ---> System.Configuration.ConfigurationErrorsException: Unrecognized configuration section userSettings/AdelLock.Properties.Settings. (D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\DWord.exe.Config line 44)
+   at System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- End of inner exception stack trace ---
+   at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Net.Configuration.SettingsSectionInternal.get_Section()
+   at System.Net.Sockets.Socket.InitializeSockets()
+   at System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   at System.Net.Dns.GetHostEntry(String hostNameOrAddress)
+   at System.Net.ServiceNameStore.BuildServiceNames(String uriPrefix)
+   at System.Net.ServiceNameStore.Add(String uriPrefix)
+   at System.Net.HttpListener.AddPrefix(String uriPrefix)
+   at System.Net.HttpListenerPrefixCollection.Add(String uriPrefix)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 65
+
+err: System.Configuration.ConfigurationErrorsException: Configuration system failed to initialize ---> System.Configuration.ConfigurationErrorsException: Unrecognized configuration section userSettings/AdelLock.Properties.Settings. (D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\DWord.exe.Config line 44)
+   at System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   at System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- End of inner exception stack trace ---
+   at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Diagnostics.DiagnosticsConfiguration.GetConfigSection()
+   at System.Diagnostics.DiagnosticsConfiguration.Initialize()
+   at System.Diagnostics.DiagnosticsConfiguration.get_Sources()
+   at System.Diagnostics.TraceSource.Initialize()
+   at System.Net.Logging.InitializeLogging()
+   at System.Net.Logging.get_On()
+   at System.Net.HttpListener..ctor()
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 65
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+err:System.Data.OleDb.OleDbException: The Microsoft Jet database engine cannot find the input table or query 'SysSetting'.  Make sure it exists and that its name is spelled correctly.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at DWord.Services.CardInfoService.CheckConnectAccessFile(String url) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Services\CardInfoService.cs:line 174
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+err:System.Data.OleDb.OleDbException: Syntax error. in query expression 'Select LOCKNO'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at DWord.Services.CardInfoService.CheckConnectAccessFile(String url) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Services\CardInfoService.cs:line 174
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=.\sqlexpress\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+err:System.Data.OleDb.OleDbException: 'D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\sqlexpress\HTLockDB.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DWord.Services.CardInfoService.CheckConnectAccessFile(String url) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Services\CardInfoService.cs:line 173
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=.\sqlexpress\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+err:System.Data.OleDb.OleDbException: 'D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\bin\Debug\sqlexpress\HTLockDB.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DWord.Services.CardInfoService.CheckConnectAccessFile(String url) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Services\CardInfoService.cs:line 173
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+err: System.Net.HttpListenerException: Failed to listen on prefix 'http://*:2000/' because it conflicts with an existing registration on the machine.
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 44
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+err: System.Net.HttpListenerException: Failed to listen on prefix 'http://*:2000/' because it conflicts with an existing registration on the machine.
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 44
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+err: System.Net.HttpListenerException: Failed to listen on prefix 'http://*:2000/' because it conflicts with an existing registration on the machine.
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\AdelLock - Copy\AdelLock\Form.cs:line 44
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+

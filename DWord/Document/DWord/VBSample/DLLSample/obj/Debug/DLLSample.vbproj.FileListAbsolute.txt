@@ -1,0 +1,16 @@
+E:\pcb\VBSample\DLLSample\DLLSample\obj\Debug\DLLSample.exe
+E:\pcb\VBSample\DLLSample\DLLSample\obj\Debug\DLLSample.xml
+E:\pcb\VBSample\DLLSample\DLLSample\obj\Debug\DLLSample.pdb
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\obj\Debug\DLLSample.exe
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\obj\Debug\DLLSample.xml
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\obj\Debug\DLLSample.pdb
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\obj\Debug\ResolveAssemblyReference.cache
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\obj\Debug\DLLSample.Form1.resources
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\obj\Debug\DLLSample.Resources.resources
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\obj\Debug\DLLSample.vbproj.GenerateResource.Cache
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\bin\Debug\DLLSample.exe
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\bin\Debug\DLLSample.pdb
+E:\pcb\hotel\interface\LockDll\VBSample\DLLSample\bin\Debug\DLLSample.xml
+E:\pcb\hotel\hlg\HLG_LockDLL\VBSample\VBSample\DLLSample\obj\Debug\DLLSample.exe
+E:\pcb\hotel\hlg\HLG_LockDLL\VBSample\VBSample\DLLSample\obj\Debug\DLLSample.xml
+E:\pcb\hotel\hlg\HLG_LockDLL\VBSample\VBSample\DLLSample\obj\Debug\DLLSample.pdb

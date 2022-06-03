@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9DFC1060-7AEE-415D-B73C-2FD900CFA6CF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DWord</RootNamespace>
+    <AssemblyName>DWord</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <LangVersion>8.0</LangVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject>DWord.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>8.0</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>8.0</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DoorLock\packages\Newtonsoft.Json.3.5.8\lib\35\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Novatek.HotelManager.RfidReader">
+      <HintPath>..\Document\NovaLock\Novatek.HotelManager.RfidReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.3.9.71\lib\net35\ServiceStack.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ServiceStack.Common, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Common.3.9.71\lib\net35\ServiceStack.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Common.3.9.71\lib\net35\ServiceStack.Interfaces.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ServiceStack.OrmLite, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.OrmLite.SqlServer.3.9.71\lib\net35\ServiceStack.OrmLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ServiceStack.OrmLite.SqlServer, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.OrmLite.SqlServer.3.9.71\lib\net35\ServiceStack.OrmLite.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ServiceStack.Redis, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Redis.3.9.71\lib\net35\ServiceStack.Redis.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ServiceStack.ServiceInterface, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.3.9.71\lib\net35\ServiceStack.ServiceInterface.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ServiceStack.Text, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Text.3.9.71\lib\net35\ServiceStack.Text.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constant\ConstLock.cs" />
+    <Compile Include="Constant\ConstNameFileAccess.cs" />
+    <Compile Include="Model\Archie\ItemRoom.cs" />
+    <Compile Include="Model\BTLock\RoomAccess.cs" />
+    <Compile Include="Model\CardInfo.cs" />
+    <Compile Include="Model\CardInfoResponse.cs" />
+    <Compile Include="Model\ResultReadCard.cs" />
+    <Compile Include="Model\Card.cs" />
+    <Compile Include="Services\AnLock\AnLockSDK.cs" />
+    <Compile Include="Services\AnLock\AnLockService.cs" />
+    <Compile Include="Services\Archie\ArchieLockSDK.cs" />
+    <Compile Include="Services\Archie\ArchieLockService.cs" />
+    <Compile Include="Services\BTLock\BTLockSDK.cs" />
+    <Compile Include="Services\BTLock\BTLockServices.cs" />
+    <Compile Include="Services\CardInfoService.cs" />
+    <Compile Include="Services\DWord\DWordLockSDK.cs" />
+    <Compile Include="Services\ElockTemic\ElockTemicSDK.cs" />
+    <Compile Include="Services\ElockTemic\ElockTemicService.cs" />
+    <Compile Include="Services\HuneLock09\Hune09LockSDK.cs" />
+    <Compile Include="Services\HuneLock09\HuneService.cs" />
+    <Compile Include="Services\NovaLock\NovaService.cs" />
+    <Compile Include="Services\OrbitaLock\OrbitaSDK.cs" />
+    <Compile Include="Services\OrbitaLock\OrbitaService.cs" />
+    <Compile Include="Services\ProUsbNew\ProUsbNewSDK.cs" />
+    <Compile Include="Services\ProUsbNew\ProUsbNewService.cs" />
+    <Compile Include="Services\ProUsb\ProUsbService2010.cs" />
+    <Compile Include="View\ElockTemic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ElockTemic.Designer.cs">
+      <DependentUpon>ElockTemic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\BTLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\BTLock.Designer.cs">
+      <DependentUpon>BTLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\HuneLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\HuneLock.Designer.cs">
+      <DependentUpon>HuneLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ArchieLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ArchieLock.Designer.cs">
+      <DependentUpon>ArchieLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\DWordLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\DWordLock.Designer.cs">
+      <DependentUpon>DWordLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Services\Helper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\DWord\DWordLockService.cs" />
+    <Compile Include="Services\LockService.cs" />
+    <Compile Include="Services\MainService.cs" />
+    <Compile Include="Services\ProUsb\ProUsbLockSDK.cs" />
+    <Compile Include="Services\ProUsb\ProUsbService.cs" />
+    <Compile Include="View\AnLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AnLock.Designer.cs">
+      <DependentUpon>AnLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\NovaLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\NovaLock.Designer.cs">
+      <DependentUpon>NovaLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\OrbitaLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\OrbitaLock.Designer.cs">
+      <DependentUpon>OrbitaLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ProUsb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ProUsb.Designer.cs">
+      <DependentUpon>ProUsb.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\ElockTemic.resx">
+      <DependentUpon>ElockTemic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AnLock.resx">
+      <DependentUpon>AnLock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\BTLock.resx">
+      <DependentUpon>BTLock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\HuneLock.resx">
+      <DependentUpon>HuneLock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ArchieLock.resx">
+      <DependentUpon>ArchieLock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\DWordLock.resx">
+      <DependentUpon>DWordLock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\NovaLock.resx">
+      <DependentUpon>NovaLock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\OrbitaLock.resx">
+      <DependentUpon>OrbitaLock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ProUsb.resx">
+      <DependentUpon>ProUsb.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon %281%29.ico" />
+    <Content Include="Newtonsoft.Json.dll" />
+    <Content Include="Novatek.HotelManager.RfidReader.dll" />
+    <Content Include="ReadMe.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="System.Net.Http.dll" />
+    <None Include="Resources\ezCloudhotel1.png" />
+    <None Include="Resources\ezCloud3.png" />
+    <None Include="Resources\ezCloudhotel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

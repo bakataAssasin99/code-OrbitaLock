@@ -1,0 +1,9 @@
+err: System.Net.HttpListenerException (0x80004005): Failed to listen on prefix 'http://*:2000/' because it conflicts with an existing registration on the machine.
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase, WaitCallback listenCallback)
+   at ServiceStack.WebHost.Endpoints.Support.HttpListenerBase.Start(String urlBase)
+   at DWord.Form.Form_Load(Object sender, EventArgs e) in D:\My job\Source\ezcloudconnectivitymaster\DWord\DWord\Form.cs:line 44
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+

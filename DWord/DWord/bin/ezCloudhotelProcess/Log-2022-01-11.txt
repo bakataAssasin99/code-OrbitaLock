@@ -1,0 +1,2 @@
+Settings.Default.HotelCode:1E819A4B
+

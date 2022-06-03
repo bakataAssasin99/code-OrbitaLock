@@ -1,0 +1,26 @@
+--------writecard-------------
+
+request.RoomName :518
+
+roomCode :010100004800
+
+_____CreateCard_____
+
+result: 13
+
+p_hotelApp: 411279
+
+p_roomCode: 010100004800
+
+p_startDate: 2105241400
+
+p_endDatee: 2105251200
+
+cardtype: G
+
+cardid: FFFFFF
+
+changkai: Y
+
+writecard is result: 13
+

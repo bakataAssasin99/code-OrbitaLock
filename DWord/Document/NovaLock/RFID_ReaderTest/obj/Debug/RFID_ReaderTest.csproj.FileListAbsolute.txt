@@ -1,0 +1,42 @@
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\bin\Debug\RFID_ReaderTest.exe.config
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\bin\Debug\RFID_ReaderTest.exe
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\bin\Debug\RFID_ReaderTest.pdb
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\bin\Debug\Newtonsoft.Json.dll
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\bin\Debug\Novatek.HotelManager.RfidReader.dll
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\bin\Debug\Newtonsoft.Json.xml
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csprojAssemblyReference.cache
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.frmMain.resources
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.Properties.Resources.resources
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.GenerateResource.cache
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.CoreCompileInputs.cache
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.CopyComplete
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.exe
+D:\2.Data\1.Project\OneDrive - BYTECH\Project\Bytech\7. HotelManager\Software\RFID_ReaderTest\RFID_ReaderTest\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.pdb
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\RFID_ReaderTest.exe.config
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\RFID_ReaderTest.exe
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\RFID_ReaderTest.pdb
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\Newtonsoft.Json.dll
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\Novatek.HotelManager.RfidReader.dll
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\Newtonsoft.Json.xml
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.AssemblyReference.cache
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.frmMain.resources
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.Properties.Resources.resources
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.GenerateResource.cache
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.CoreCompileInputs.cache
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.CopyComplete
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.exe
+D:\My job\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.pdb
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.AssemblyReference.cache
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.frmMain.resources
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.Properties.Resources.resources
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.GenerateResource.cache
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.CoreCompileInputs.cache
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.exe
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.pdb
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\RFID_ReaderTest.exe.config
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\RFID_ReaderTest.exe
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\RFID_ReaderTest.pdb
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\Newtonsoft.Json.dll
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\Novatek.HotelManager.RfidReader.dll
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\bin\Debug\Newtonsoft.Json.xml
+D:\Working space\Source\ezcloudconnectivitymaster\DWord\Document\NovaLock\RFID_ReaderTest\obj\Debug\RFID_ReaderTest.csproj.CopyComplete

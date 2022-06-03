@@ -1,0 +1,42 @@
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+Settings.Default.HotelCode:1E819A4B
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+Settings.Default.HotelCode:1E819A4B
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+Settings.Default.HotelCode:1E819A4B
+
+CommunicationClass.ConnectionString 1: Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\My job\HTLockDB.mdb;Jet OLEDB:Database Password=6688;
+
+Connect DB SUCCESS
+
+Settings.Default.HotelCode:1E819A4B
+
+Settings.Default.HotelCode:1E819A4B
+
+Settings.Default.HotelCode:1E819A4B
+
+Settings.Default.HotelCode:1E819A4B
+
+Settings.Default.HotelCode:1E819A4B
+
+Settings.Default.HotelCode:1E819A4B
+
